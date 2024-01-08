@@ -1,3 +1,5 @@
+package courier;
+
 import builder.Courier;
 import config.Config;
 import io.qameta.allure.Description;

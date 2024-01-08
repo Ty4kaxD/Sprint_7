@@ -1,3 +1,5 @@
+package builder;
+
 public class Courier {
 
     private String login;
